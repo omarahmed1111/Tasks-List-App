@@ -8,7 +8,7 @@ Simply you can:
 * Clear tasks by hitting the clear tasks button.
 
 # Technology
-The website is built with Javascript ES6. 
+The website is built with Javascript ES6 for the logic part, and bootsrap for the UI part.
 
 # Run
 The website could be run simply by opening index.html file in your browser.
